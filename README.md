@@ -17,7 +17,6 @@
 - **Per Message Limit:** Up to 100 recipients per email.
 - **Rate Limit:** Sending too fast (e.g., hundreds of emails in a short time) may trigger temporary blocks.
 
-## Setup
 
 ### 1. Set Up Python Virtual Environment
 Create and activate a virtual environment to isolate dependencies:
