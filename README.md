@@ -103,9 +103,6 @@ auto-emailer/
 
 Misuse of this tool may violate laws such as the CAN-SPAM Act, GDPR, or other regulations in your jurisdiction.
 
-## License
-This project is licensed under the [MIT License](https://github.com/msboufanzi/Auto-Emailer/blob/main/LICENSE).
-
 ## Contributions
 Contributions are welcome! If you have suggestions for improvements, feel free to create an issue or submit a pull request.
 
